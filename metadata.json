@@ -1,0 +1,8 @@
+{
+  "name": "LearnLoop AI",
+  "description": "Turn Your Goals Into Achievements — Personalized study companion with dual themes, AI tutor, goal planner, adaptive quizzes, and visual progress analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
